@@ -1,0 +1,2 @@
+[10:49:59.582] Namespace(PAweight=10, base_lr=0.01, batch_size=4, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='LA_CPCL_general_staLoss', gpu='0', labeled_bs=2, labeled_num=8, max_iterations=3336, model='vnet', patch_size=[112, 112, 80], pretrain_model=None, root_path='../data/LA_data_h5', seed=1337, stability_loss=1, total_sample=80)
+[10:49:59.954] 4 iterations per epoch
